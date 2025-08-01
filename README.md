@@ -31,8 +31,8 @@ The project is built with **React**, **Next.js (App Router)**, **Tailwind CSS**,
 **1. Clone the repository:**
 
 ```bash
-git clone https://github.com/ShantanuSingh08/admybrand-landing.git
-cd admybrand-landing
+git clone https://github.com/ShantanuSingh08/LandingPage.git
+cd LandingPage
 ```
 
 **2. Install dependencies:**
