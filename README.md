@@ -24,7 +24,7 @@ Branded footer with social links, legal, and navigation columns, styled for both
 🛠️ Setup Instructions
 Clone the repository:
 bash
-git clone https://github.com/yourusername/admybrand-landing.git
+git clone https://github.com/ShantanuSingh08/LandingPage.git
 cd admybrand-landing
 
 Install dependencies:
