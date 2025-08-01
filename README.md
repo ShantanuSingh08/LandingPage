@@ -31,7 +31,7 @@ The project is built with **React**, **Next.js (App Router)**, **Tailwind CSS**,
 **1. Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/admybrand-landing.git
+git clone https://github.com/ShantanuSingh08/admybrand-landing.git
 cd admybrand-landing
 ```
 
