@@ -72,7 +72,7 @@ SCSS and GSAP are used for section reveals and microinteractions.
 - **Accessibility:**
 Buttons, forms, and modals comply with WAI-ARIA guidelines.
 
-*The landing page is [live](https://landing-page-omega-six-49.vercel.app/)*
+*The landing page is [Live on Vercel](https://landing-page-omega-six-49.vercel.app/)*
 
 
 
